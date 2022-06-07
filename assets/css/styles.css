@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Playfair+Display:wght@500&family=Quicksand:wght@300;700&family=Raleway:wght@500&display=swap');
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Lato', serif !important;
+}
+
+p, a, li, td, th, button {
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+.card > img {
+    height: 300px;
+    width: auto
+}
+
