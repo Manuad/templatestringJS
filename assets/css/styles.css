@@ -9,7 +9,11 @@ p, a, li, td, th, button {
 }
 
 .card > img {
-    height: 300px;
+    height: 100%;
     width: auto
+}
+
+.card {
+    min-height: 450px;
 }
 
